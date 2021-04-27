@@ -1,4 +1,4 @@
-streamlit>=0.78.0
+streamlit>=0.80.0
 numpy 
 pandas 
 pymongo
